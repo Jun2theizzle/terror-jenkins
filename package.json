@@ -1,0 +1,19 @@
+{
+  "name": "terror-jenkins",
+  "version": "1.0.0",
+  "description": "App for learning Jeknins and Terraform",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jun2theizzle/terror-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jun2theizzle/terror-jenkins/issues"
+  },
+  "homepage": "https://github.com/Jun2theizzle/terror-jenkins#readme"
+}
