@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Jun2theizzle/terror-jenkins/issues"
   },
-  "homepage": "https://github.com/Jun2theizzle/terror-jenkins#readme"
+  "homepage": "https://github.com/Jun2theizzle/terror-jenkins#readme",
+  "dependencies": {}
 }
