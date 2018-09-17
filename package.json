@@ -4,7 +4,7 @@
   "description": "App for learning Jeknins and Terraform",
   "main": "handler.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha **/*/*.spec.js"
+    "test": "mocha **/*/*.spec.js"
   },
   "repository": {
     "type": "git",
