@@ -1,8 +1,4 @@
 pipeline {
-    environment {
-        PATH = "$PATH:/usr/local/bin"
-    }
-    
     agent {
         docker { image 'node:7-alpine' }
     }
