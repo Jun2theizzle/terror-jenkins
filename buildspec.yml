@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - npm install
+  pre_build:
+    commands:
+      - echo In PreBuild step
+  post_build:
+    commands:
+      - npm test
+    finally:
+      - echo Unit Test finished, hoped it worked =p
