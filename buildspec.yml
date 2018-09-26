@@ -4,11 +4,8 @@ phases:
   install:
     commands:
       - npm install
-  pre_build:
-    commands:
-      - echo In PreBuild step
   post_build:
     commands:
-      - npm test
+      - npm run unit_tests
     finally:
       - echo Unit Test finished, hoped it worked =p
